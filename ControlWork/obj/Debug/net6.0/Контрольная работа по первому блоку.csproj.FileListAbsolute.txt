@@ -1,0 +1,15 @@
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/Контрольная работа по первому блоку/bin/Debug/net6.0/Контрольная работа по первому блоку
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/Контрольная работа по первому блоку/bin/Debug/net6.0/Контрольная работа по первому блоку.deps.json
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/Контрольная работа по первому блоку/bin/Debug/net6.0/Контрольная работа по первому блоку.runtimeconfig.json
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/Контрольная работа по первому блоку/bin/Debug/net6.0/Контрольная работа по первому блоку.dll
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/Контрольная работа по первому блоку/bin/Debug/net6.0/Контрольная работа по первому блоку.pdb
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/Контрольная работа по первому блоку/obj/Debug/net6.0/Контрольная работа по первому блоку.csproj.AssemblyReference.cache
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/Контрольная работа по первому блоку/obj/Debug/net6.0/Контрольная работа по первому блоку.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/Контрольная работа по первому блоку/obj/Debug/net6.0/Контрольная работа по первому блоку.AssemblyInfoInputs.cache
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/Контрольная работа по первому блоку/obj/Debug/net6.0/Контрольная работа по первому блоку.AssemblyInfo.cs
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/Контрольная работа по первому блоку/obj/Debug/net6.0/Контрольная работа по первому блоку.csproj.CoreCompileInputs.cache
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/Контрольная работа по первому блоку/obj/Debug/net6.0/Контрольная работа по первому блоку.dll
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/Контрольная работа по первому блоку/obj/Debug/net6.0/refint/Контрольная работа по первому блоку.dll
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/Контрольная работа по первому блоку/obj/Debug/net6.0/Контрольная работа по первому блоку.pdb
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/Контрольная работа по первому блоку/obj/Debug/net6.0/Контрольная работа по первому блоку.genruntimeconfig.cache
+/Users/stanislavsvetonosov/Documents/GeekBrains/C#/Контрольная работа по первому блоку/obj/Debug/net6.0/ref/Контрольная работа по первому блоку.dll
